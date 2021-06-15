@@ -1,0 +1,44 @@
+body{
+    background-color: whitesmoke;
+    font-family: "Gilroy", sans-serif;
+}
+p{
+    color: darkslategrey;
+    padding-bottom: 25px;
+}
+ul{
+    color: darkslategrey;
+}
+img{
+    border-radius: 5%;
+}
+#logo{
+    margin: 20px 0px 0px 0px;
+}
+a:hover{
+    color: tomato;
+}
+a{
+    color: teal;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: bold;
+}
+#gotop{
+    padding-bottom: 25px;
+}
+.downloadbutton{
+    margin-bottom: 50px;
+}
+.image{
+    margin-bottom: 10px;
+}
+.walls{
+    padding-top: 25px;
+}
+.sociallink{
+    padding: 0px 10px 0px 10px;
+}
+.form p{
+    padding: 0px 0px 0px 0px;
+}
